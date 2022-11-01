@@ -1,5 +1,15 @@
+@charset "UTF-8";
+
 body {
     background-color: #e5f1e3;
+}
+
+h1 {
+    color: #35635b;
+}
+
+h3 {
+    color: #529471;
 }
 
 hr {
@@ -7,14 +17,5 @@ hr {
     border-top-style: dotted;
     border-width: 5px;
     border-color: #a3cd9e;
-    height: 0;
     width: 47%;
-}
-
-h1 {
-   color: #35635b;
-}
-
-h3 {
-    color: #529471;
 }
